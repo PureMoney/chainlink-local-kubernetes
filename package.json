@@ -17,6 +17,6 @@
     "@types/node": "^15.14.0"
   },
   "devDependencies": {
-    "truffle": "^5.3.14"
+    "truffle": "^5.7.9"
   }
 }
